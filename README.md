@@ -13,17 +13,13 @@
 ![弹球](./img/ball.jpeg)
 
 
-
-## 2.[停车养成](http://bagakhj.com:9090/cocos/car)
-
-![停车](./img/car.jpeg)
-
-
-
-## 3.[搭梯子](http://bagakhj.com:9090/cocos/stick)
+## 2.[搭梯子](http://bagakhj.com:9090/cocos/stick)
 
 ![搭梯子](./img/stick.jpeg)
 
 
+## 3.[停车养成](http://bagakhj.com:9090/cocos/car)
+
+![停车](./img/car.jpeg)
 
 娱乐之作整着瞎玩!!
