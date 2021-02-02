@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "humanMove",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.4,
+  "sample": 40,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "6ed6736e-d034-4aaa-a302-0d4c5ec638d4"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "fe68b92d-b59a-40bb-8273-79a88f02efa0"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "0c50ed90-293a-484f-ba2a-bc8dea909ab8"
+            }
+          },
+          {
+            "frame": 0.375,
+            "value": {
+              "__uuid__": "989ad99d-7c48-4a54-81be-b2ec0f672c61"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
